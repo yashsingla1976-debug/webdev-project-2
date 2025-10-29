@@ -1,0 +1,43 @@
+Header {
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    color: beige;
+}
+a {
+    color: white;
+}
+
+input[type="Submit"] {
+    color: black;
+    background-color:greenyellow;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: palegoldenrod;
+}
+
+table {
+    border: 5px;
+    border-color: aqua;
+    border-bottom: palegoldenrod;
+    border-style: dotted;
+}
+
+th {
+    background-color: aqua;
+    
+}
+
+footer {
+    background-color: aqua;
+}
+button {
+    position: absolute;
+    Right:0px;
+    background-color: black;
+    color: white ;
+}
+html{
+    background-color: brown
+}
